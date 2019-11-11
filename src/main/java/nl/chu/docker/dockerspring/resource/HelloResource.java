@@ -8,7 +8,7 @@ public class HelloResource {
 
     @RequestMapping
     public String docker(){
-        return "docker";
+        return "dockerdockerdocker";
     }
 
 
