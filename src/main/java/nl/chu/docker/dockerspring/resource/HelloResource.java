@@ -9,7 +9,7 @@ public class HelloResource {
 
     @RequestMapping
     public String docker(Model model){
-        return "index.html";
+        return "index";
     }
 
 
